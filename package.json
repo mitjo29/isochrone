@@ -1,0 +1,23 @@
+{
+  "name": "isochrone",
+  "version": "1.0.0",
+  "description": "Isochrone is a polygon representing how far you would go from a single point in every direction, following each road in a given timeframe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitjo29/isochrone.git"
+  },
+  "keywords": [
+    "isochrone",
+    "googlemap"
+  ],
+  "author": "Jocelyn Moreau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitjo29/isochrone/issues"
+  },
+  "homepage": "https://github.com/mitjo29/isochrone#readme"
+}
